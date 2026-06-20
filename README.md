@@ -1,4 +1,4 @@
-## Projeto 1: Sistema de Dosagem Rotativa
+## Projeto 1: Forno
 **Disciplina:** SEL0433 - Aplicação de Microprocessadores  
 **Instituição:** Escola de Engenharia de São Carlos (EESC-USP)  
 **Alunos:** 
@@ -44,3 +44,6 @@ de temperatura
 - **SimulIDE** Para validação da lógica de hardware e periféricos.
 - **Linguagem:** C.
 - **MikroC PRO for PIC** Para criação do código e gerador do .hex
+
+### Execução no SimulIDE
+![Imagem do circuito e LCD a funcionar no SimulIDE](Simu.jpg)
