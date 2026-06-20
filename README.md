@@ -46,4 +46,4 @@ de temperatura
 - **MikroC PRO for PIC** Para criação do código e gerador do .hex
 
 ### Execução no SimulIDE
-![Imagem do circuito e LCD a funcionar no SimulIDE](Simu.jpg)
+![Imagem do circuito e LCD a funcionar no SimulIDE](Simu.png)
