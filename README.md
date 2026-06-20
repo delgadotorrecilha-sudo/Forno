@@ -33,3 +33,14 @@ estado representa uma aferição de curta duração ou uma aferição de longa d
 contagem do tempo também deverá ser exibida regressivamente no display LCD. Por fim, um
 segundo botão deverá ser utilizado para iniciar o processo de contagem regressiva e medição
 de temperatura
+
+## 3. Estrutura de Arquivos
+- `Checkpoint1.c`: Código fonte em linguagem C do checkpoint 1.
+- `Checkpoint2.c`: Código fonte em linguagem C do checkpoint 2.
+- `EFINAL.C`: Código fonte em linguagem C do Projeto Finalizado.
+- `SEL0433_Projeto_1.pdf`: Roteiro com as especificações técnicas seguidas.
+
+## 4. Ferramentas Utilizadas
+- **SimulIDE** Para validação da lógica de hardware e periféricos.
+- **Linguagem:** C.
+- **MikroC PRO for PIC** Criação do código e gerador do .hex
