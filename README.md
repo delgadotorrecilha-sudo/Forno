@@ -38,9 +38,9 @@ de temperatura
 - `Checkpoint1.c`: Código fonte em linguagem C do checkpoint 1.
 - `Checkpoint2.c`: Código fonte em linguagem C do checkpoint 2.
 - `EFINAL.C`: Código fonte em linguagem C do Projeto Finalizado.
-- `SEL0433_Projeto_1.pdf`: Roteiro com as especificações técnicas seguidas.
+- `SEL0433_projeto_2.pdf`: Roteiro com as especificações técnicas seguidas.
 
 ## 4. Ferramentas Utilizadas
 - **SimulIDE** Para validação da lógica de hardware e periféricos.
 - **Linguagem:** C.
-- **MikroC PRO for PIC** Criação do código e gerador do .hex
+- **MikroC PRO for PIC** Para criação do código e gerador do .hex
